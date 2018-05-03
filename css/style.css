@@ -1,0 +1,17 @@
+.jumbotronBack {
+   padding: 10px 10px 10px 10px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+   font-family: "Times New Roman";
+   
+}
+ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
